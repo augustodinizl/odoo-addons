@@ -2,6 +2,8 @@
    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
    :alt: License: AGPL-3
 
+Module addapted by me from: https://github.com/OCA/sale-workflow/tree/10.0/sale_order_line_sequence to work with v11.x with minor tweaks
+
 =============================
 Sale Order Line with Sequence
 =============================
