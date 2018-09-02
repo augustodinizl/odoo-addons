@@ -1,2 +1,2 @@
 # odoo-addons
-Repositorie to addons used/changed by me
+Repository to addons used/changed by me
